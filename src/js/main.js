@@ -4,7 +4,7 @@ let layout = document.querySelector(".layout")
 let n = 0;
 let string = `/*
 
-你好，我是一个前端新人。
+你好，我是庞之明
 接下来，我要展示自己的项目代码。
 
 使用 css 来绘制一个太极图案
